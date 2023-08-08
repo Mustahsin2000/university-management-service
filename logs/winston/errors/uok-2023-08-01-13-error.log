@@ -1,0 +1,3 @@
+Tue Aug 01 2023 13:8:11} [university of kaja!] error: failed to connect database querySrv ECONNREFUSED _mongodb._tcp.cluster0.wfblndv.mongodb.net
+Tue Aug 01 2023 13:9:47} [university of kaja!] error: failed to connect database querySrv ECONNREFUSED _mongodb._tcp.cluster0.wfblndv.mongodb.net
+Tue Aug 01 2023 13:17:20} [university of kaja!] error: failed to connect database querySrv ETIMEOUT _mongodb._tcp.cluster0.wfblndv.mongodb.net
